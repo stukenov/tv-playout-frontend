@@ -1,6 +1,18 @@
 # TV Playout Frontend
 
+> Real-time TV channel playout dashboard — manage broadcast schedules, media, and live streams from one intuitive UI.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)](https://react.dev/)
+[![Laravel](https://img.shields.io/badge/Laravel-11-FF2D20?logo=laravel&logoColor=white)](https://laravel.com/)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+
 Modern React-based user interface for TV broadcast playout system. Built with Laravel Inertia.js, React, TypeScript, and shadcn/ui components. This frontend provides an intuitive interface for managing TV schedules, media content, and live streaming operations.
+
+This is the UI layer for the [tv-playout-backend](https://github.com/stukenov/tv-playout-backend) API — see [Related projects](#related-projects).
+
+> **Screenshots:** _Coming soon._ Drop dashboard, schedule, and live-stream captures here (e.g. `docs/screenshots/`) to showcase the interface.
 
 ## Features
 
@@ -172,6 +184,10 @@ VITE_API_URL=http://localhost:8000/api
 - Node.js 18+
 - Composer
 - MySQL 8.0+ or PostgreSQL 13+
+
+## Related projects
+
+- **[tv-playout-backend](https://github.com/stukenov/tv-playout-backend)** — the companion API this UI talks to. Handles schedule management, playlist automation, and broadcast control, built with Laravel.
 
 ## License
 
