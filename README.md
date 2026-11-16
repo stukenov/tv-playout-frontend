@@ -12,8 +12,6 @@ Modern React-based user interface for TV broadcast playout system. Built with La
 
 This is the UI layer for the [tv-playout-backend](https://github.com/stukenov/tv-playout-backend) API — see [Related projects](#related-projects).
 
-> **Screenshots:** _Coming soon._ Drop dashboard, schedule, and live-stream captures here (e.g. `docs/screenshots/`) to showcase the interface.
-
 ## Features
 
 ### Schedule Management
